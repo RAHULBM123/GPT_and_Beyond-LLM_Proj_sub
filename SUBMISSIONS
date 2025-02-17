@@ -1,0 +1,10 @@
+ "name":RAHUL BM
++
+  "project_name": STUDYBUDDY
++
+  "repository_url": https://github.com/RAHULBM123/STUDYBRO.git
++
+  "description": The StudyBuddy C model is a lightweight, procedural implementation of a study assistant designe
+d to help students manage schedules and resources. Unlike its Python counterpart, it emphasizes low-level memory management and 
+simplicity while retaining core functionalities like schedule creation, resource recommendations, and a basic Pomodoro timer.
+\
